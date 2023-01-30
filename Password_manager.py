@@ -24,7 +24,7 @@ while running:
 
     if choice == 1:
         website = input("Enter the name of the website: ")
-        password = input("Enter the password for the website")
+        password = input("Enter the password for the website: ")
         create_passwords(website,password)
 
     if choice == 2:
